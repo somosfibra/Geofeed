@@ -1,1 +1,3 @@
-95.140.84.0/22,RU,RU-SPE,Saint Petersburg,,
+# Prefixos SomosFibra,,,
+2804:8880::/32,BR,BR-GO,Goiania
+38.56.81.0/24,BR,BR-GO,Goiania
